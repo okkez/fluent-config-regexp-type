@@ -1,4 +1,5 @@
 # fluent-config-regexp-type
+[![Build Status](https://travis-ci.org/okkez/fluent-config-regexp-type.svg?branch=master)](https://travis-ci.org/okkez/fluent-config-regexp-type)
 
 Fluentd 1.2.0 supports regexp type in `config_param`.
 This gem backports regexp type for `config_param`.
