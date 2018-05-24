@@ -1,6 +1,6 @@
 # fluent-config-regexp-type
 
-Fluentd 1.x.x supports regexp type in `config_param`.
+Fluentd 1.2.0 supports regexp type in `config_param`.
 This gem backports regexp type for `config_param`.
 
 ## Installation
