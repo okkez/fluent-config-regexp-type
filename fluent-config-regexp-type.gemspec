@@ -10,6 +10,7 @@ Gem::Specification.new do |spec|
   spec.summary       = "The compatibility monkey patch to use regexp type "
   spec.description   = "The compatibility monkey patch to use regexp type "
   spec.homepage      = "https://github.com/okkez/fluent-config-regexp-type"
+  spec.licenses      = ["Apache-2.0"]
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
     f.match(%r{^(test|spec|features)/})
